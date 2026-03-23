@@ -1,5 +1,11 @@
 export default [
    {
+      name: "Yingineer",
+      link: "https://basilosauridae.github.io/",
+      desc: "Create art and beauty on a computer!",
+      thumbail: "https://cetacea-1304984885.cos.ap-shanghai.myqcloud.com/others/thumbnail.png"
+   },
+   {
       name: "邻家大龙猫",
       link: "https://bigtotoro.cn",
       desc: "邻家大龙猫的个人学习笔记",
